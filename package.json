@@ -2,12 +2,12 @@
   "name": "light-plain-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A light plain (no-)syntax theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/light-plain-syntax",
+  "repository": "https://github.com/neoeno/light-plain-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
