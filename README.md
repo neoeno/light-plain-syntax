@@ -1,6 +1,6 @@
 # A Light Plain (No-)Syntax theme
 
-![Screenshot](/screenshot.png)
+![Screenshot](https://github.com/neoeno/light-plain-syntax/raw/2332ba715179a2c120ea596a0bea102c666df285/screenshot.png)
 
 A theme that removes most syntax highlighting, with a couple exceptions:
 
